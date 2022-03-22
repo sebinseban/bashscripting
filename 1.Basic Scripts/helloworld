@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# Author: Sebin Sebastian
+# Created: 22nd March 2022
+# Last Modified: 22nd March 2022
+
+# Description:
+# Prints hello world to the user
+
+echo "Hello World"
+
+exit 0
