@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../32323262"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.html": "jinja-html",
+			"functional": "c",
+			"layer.h": "c",
+			"stdlib.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
